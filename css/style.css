@@ -593,7 +593,7 @@ footer i {
     header nav{
         position: fixed;
         background: #597fb2 ;
-        top: 1;
+        top: 0;
         right: -250px;
         height: 100%;
         width: 50%;
