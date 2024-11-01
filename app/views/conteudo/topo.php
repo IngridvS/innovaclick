@@ -16,9 +16,9 @@ function getActiveClass($nomePagina){
     <nav>
         <button class="fecharMenu"><i class="fa-solid fa-x"></i></button>
         <ul>
-            <li class="<?= getActiveClass('index.php')?>"><a href="index.php">Home</a></li>
-            <li class="<?= getActiveClass('sobre.php')?>"><a href="sobre.php">Sobre Nós</a></li>
-            <li class="<?= getActiveClass('contato.php')?>"><a href="contato.php">Contato</a></li>
+            <li class="<?= getActiveClass('index.php')?>"><a href="<?php Base_URL?> home">Home</a></li>
+            <li class="<?= getActiveClass('sobre.php')?>"><a href="<?php Base_URL?> sobre">Sobre Nós</a></li>
+            <li class="<?= getActiveClass('contato.php')?>"><a href="<?php Base_URL?> contato">Contato</a></li>
         </ul>
         <button><i class="fa-solid fa-user"></i></button>
     </nav>

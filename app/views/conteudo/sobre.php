@@ -1,6 +1,6 @@
 <section class="sobre animate__animated animate__backInUp">
     <article class="site">
-        <img src="img-innova/sobre.png" alt="sobre">
+        <img src="ass " alt="sobre">
         <div>
             <h2>Sobre</h2>
             <hr>
